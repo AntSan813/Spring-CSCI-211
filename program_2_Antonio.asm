@@ -1,7 +1,7 @@
 # # # # # # # # # # # # # # # # # #
-# Antonio Santos		  #
-# Part 2 for Program 2		  #
-# CSCI 211 - Spring 2017	  #
+# Antonio Santos		         #
+# Program 2		               #
+# CSCI 211 - Spring 2017	   #
 # # # # # # # # # # # # # # # # # # 
 .data
 pr_line: .asciiz "Enter Pay Rate: "
