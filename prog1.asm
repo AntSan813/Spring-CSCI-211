@@ -1,4 +1,9 @@
-	.text
+# # # # # # # # # # # # # # # # # #
+# Antonio Santos		  #
+# Part 1 for Program 1		  #	
+# CSCI 211 - Spring 2017	  #
+# # # # # # # # # # # # # # # # # # 
+.text
         .globl  main   
 main:
 	lw $8, a
