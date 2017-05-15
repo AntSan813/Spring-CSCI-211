@@ -1,3 +1,5 @@
+# Beginning Statistical System
+
 Instructor: Dr. Thacker
 
 University: Winthrop
