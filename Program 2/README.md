@@ -2,9 +2,9 @@ Instructor: Dr. Thacker
 
 University: Winthrop
 
-Spring 2017 - CSCI 271
+Spring 2017 - CSCI 211
 
-Due: Feb.13
+Due: Feb.13 2017
 
 # Program 
 
